@@ -1,0 +1,81 @@
+.center{
+margin: auto;
+width: max-content;
+text-align: center;
+margin: 25px;
+     }
+    h1{
+        color: rgb(33, 10, 80); font-size: x-large;
+    }
+    p{
+        font-style: italic;
+    }
+    form{
+        font-style: italic;
+    }
+    h2{
+        font-size: larger; color: rgb(17, 17, 88);
+    }
+
+    nav {
+
+        list-style-type: none;
+        margin: 0ch;
+        padding: 0%;
+        overflow: hidden;
+        background-color: rgb(231, 239, 209);
+        font-size: 12px;
+        font-style: italic ;
+    
+        
+        }
+        input[type=“text”] {
+           display: inline-block;
+            font-size: 20px;
+            
+            line-height: 1.2;
+            
+            }
+            
+            tr{
+                background-color: rgb(211, 233, 185); font-style: italic; font-size: 16px;
+            }
+
+            table{
+                font-size: 16px;
+                border-color: black; border-style: ridge;
+            }
+            
+                
+            
+            li a{
+                font-size:x-large;
+                float: left;
+                display: block;
+                color: rgb(7, 64, 60);
+                text-align: center;
+                padding: 14px;
+                border-right: 2px rgb(15, 79, 42);
+                text-decoration: none;
+                font-style: italic;
+            }
+            li a:hover:not(active){
+             background-color: rgb(178, 207, 135);
+            }
+              img{
+             width: 260px;
+              height: 360px;
+              float: rig;
+              display: block;
+              margin-left: 18px;
+              margin-right: auto;
+              }
+        form{
+             display: inline-block;
+             background-color: rgb(236, 242, 222);
+             border-radius: 4px;
+             padding: 10px;
+             font-size: medium;
+        }
+        
+            
